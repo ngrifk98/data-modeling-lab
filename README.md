@@ -1,5 +1,4 @@
-# data-modeling-lab
-# Recipe and Grocery List App
+# data-modeling-lab: Recipe and Grocery List App
 
 This repository contains the data model, SQL statements, and documentation for the Recipe and Grocery List App. The app allows users to create, share, and manage recipes and grocery lists. Additionally, users can view other people's recipes, add recipe ingredients to their grocery lists, and create custom occasions for their recipes.
 
@@ -14,7 +13,7 @@ This repository contains the data model, SQL statements, and documentation for t
 
 The schema diagram represents the data model for the Recipe and Grocery List App. It visualizes the relationships between different tables and their attributes.
 
-![Schema Diagram](schema_diagram.pdf)
+![Schema Diagram](db-diagram-recipe-and-grocery-list-app.pdf)
 
 ## Table Planning
 
